@@ -57,4 +57,6 @@ SELECT * FROM users; показывает всех пользователей
 
 SELECT * FROM grades; показывает все оценки
 
-SEKECT * FROM users,grades WHERE users.user_id=grades.user_id -запрос из двух таблиц (кто получил оценки)
+SELECT * FROM users,grades WHERE users.user_id=grades.user_id -запрос из двух таблиц (кто получил оценки)
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4b0c4fc7-738f-430a-94fe-208f9f790777" id="DxmfelbdfdRg"></iframe></div>
