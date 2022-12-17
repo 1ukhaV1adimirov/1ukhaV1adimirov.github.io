@@ -43,10 +43,15 @@ $$ \sin \alpha \sin \beta ={\frac {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2}
 
 ![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114472390/200511243-b5ed48a0-6859-47a9-a4aa-06910ed1bc58.png)
 #
+
 ### sql-запросы
 
 SELECT COUNT(*) AS TABLE_COUNT -показывает количество таблиц
+
 SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE='BASE TABLE' - показывает названия всех таблиц
+
 SELECT * FROM users; показывает всех пользователей
+
 SELECT * FROM grades; показывает все оценки
+
 SEKECT * FROM users,grades WHERE users.user_id=grades.user_id -запрос из двух таблиц (кто получил оценки)
