@@ -18,7 +18,8 @@
 
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://1ukhaV1adimirov.ru/" target="_blank">Alexey</a> 
+<h1 align="center">Hi there, I'm <a href="1ukhaV1adimirov.github.io
+" target="_blank">Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia.</h3>
 
