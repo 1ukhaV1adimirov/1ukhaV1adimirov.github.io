@@ -47,7 +47,7 @@ $$ \sin \alpha \sin \beta ={\frac {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2}
 
 ![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114472390/200511243-b5ed48a0-6859-47a9-a4aa-06910ed1bc58.png)
 
-### sql-запросы АНЯ ЛОХ
+### sql-запросы Аргентина-Франция 2:0
 
 SELECT COUNT(*) AS TABLE_COUNT -показывает количество таблиц
 
