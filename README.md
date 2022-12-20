@@ -60,4 +60,4 @@ SELECT * FROM grades; показывает все оценки
 SELECT * FROM users,grades WHERE users.user_id=grades.user_id -запрос из двух таблиц (кто получил оценки)
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4b0c4fc7-738f-430a-94fe-208f9f790777" id="DxmfelbdfdRg"></iframe></div>
-![mermaid-diagram-2022-12-20-130619](https://user-images.githubusercontent.com/115533634/208616247-17b1f36e-06ac-4efd-81aa-76ece576a41d.png)
+![mermaid-diagram-2022-12-20-152539](https://user-images.githubusercontent.com/114642857/208618732-518ce99d-1c24-4b04-92b8-31ddb0373b1b.png)
